@@ -13,7 +13,7 @@
 
 ### 💬 Support
 
-For help or questions, feel free to [create an issue](https://github.com/your-username/super-simple-counter/issues) on this repository.
+For help or questions, feel free to [create an issue](https://github.com/LeChef/Super.Simple.Counter./issues) on this repository.
 
 ---
 
