@@ -1,0 +1,34 @@
+Privacy Policy for Super.Simple.Counter
+
+Effective Date: 12.07.2025
+
+Super.Simple.Counter is a minimal, offline-only counting app. We value your privacy and are committed to being fully transparent. This privacy policy outlines how your data is handled.
+
+1. Data Collection
+
+Super.Simple.Counter does NOT collect, store, or transmit any personal data. All data created within the app (such as counters, names, colors, and counts) stays entirely on your device.
+
+2. Analytics
+
+This app does NOT use analytics tools or trackers of any kind.
+
+3. Internet Access
+
+The app does not require an internet connection and does not communicate with any external servers.
+
+4. Permissions
+
+The app only uses local device storage (SQLite) to store your counter data. No other permissions are requested.
+
+5. Changes to This Policy
+
+If this policy ever changes, an updated version will be made available on the GitHub repository or the App Store listing.
+
+6. Contact
+
+For any questions or concerns regarding this policy, please contact support by creating an issue at:
+https://github.com/LeChef/Super.Simple.Counter./issues
+
+---
+
+Thank you for using Super.Simple.Counter!
